@@ -21,8 +21,8 @@ Exploração de algoritmos avançados e formas eficientes de organizar e manipul
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem:** Java (JDK 21+)
-* **IDE:** IntelliJ IDEA / VS Code / Eclipse (coloque a sua aqui)
-* **Gerenciador:** Maven / Gradle (se estiver usando)
+* **IDE:** IntelliJ IDEA 
+* **Gerenciador:** Maven / Gradle
 
 ---
 
